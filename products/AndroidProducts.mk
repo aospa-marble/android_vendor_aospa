@@ -16,7 +16,6 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/lahaina/aospa_lahaina.mk \
     $(LOCAL_DIR)/lito/aospa_lito.mk \
     $(LOCAL_DIR)/lmi/aospa_lmi.mk \
-    $(LOCAL_DIR)/marble/aospa_marble.mk \
     $(LOCAL_DIR)/mi439_419/aospa_mi439_419.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
@@ -50,7 +49,6 @@ COMMON_LUNCH_CHOICES += \
     aospa_lahaina-userdebug \
     aospa_lito-userdebug \
     aospa_lmi-userdebug \
-    aospa_marble-userdebug \
     aospa_mi439_419-userdebug \
     aospa_miatoll-userdebug \
     aospa_munch-userdebug \
